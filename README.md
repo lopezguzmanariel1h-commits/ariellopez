@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículum de Ariel López Guzmán </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <header>
+      <h1>Ariel López Guzmán </h1>
+      <p>estudiante</p>
+      <p>mexicana</p>
+      <p> año de nacimiento: 12/08/2009</p>   
+      <p>Email: lopezguzmanariel1h@gmail.com | Tel: +52 44 43 37 50 92</p>
+      <p><a href="https://www.linkedin.com/in/ariellopezguzman" target="_blank">LinkedIn</a> | <a href="https://github.com/ariellopezguzman" target="_blank">GitHub</a></p>
+    </header>
+
+    <section>
+      <h2>Perfil Profesional</h2>
+      <p>
+        Estudiante de preparatoria, especializacion en mecatronica buscando cosas que aprender
+      </p>
+    </section>
+
+    <section>
+      <h2>Experiencia Laboral</h2>
+      <ul>
+        <li>
+          <strong>Frontend Developer</strong> – servicio al cliente <br>
+          estudiante de taekwondo cinta roja
+          <p>conocimienro basico en cocina y reposteria</p>
+         <p>conocimiento en limpieza genera</p>
+        </li>
+      </ul>   
+    <section>
+      <h2>Idiomas</h2>
+      <ul>
+        <li>Español: Nativo</li>
+        <li>Inglés: bajo</li>
+      </ul>
+    </section>
+ </div>
+
+</html>
